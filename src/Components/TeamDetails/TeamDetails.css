@@ -1,0 +1,34 @@
+.custom-card{
+    margin-top: 20px;
+    background-color:#3A42FF!important;
+    border-radius: 20px!important;
+    color: white;
+}
+
+.custom-design{
+    width: 100%;
+    padding: 40px 50px 0px 0px;
+    
+}
+.team-detailsContainer{
+    background-color: #02025F;
+    
+}
+
+.description{
+    color: white;
+    padding: 30px;
+}
+.social-icon .custom-icon{
+   height: 40px!important;
+   width: 40px;
+   margin: 20px;
+   color: white;
+   transition: .5s;
+   
+}
+.social-icon .custom-icon :hover{
+    color: #3A42FF;
+    transform: translateY(-50px);
+    
+}
